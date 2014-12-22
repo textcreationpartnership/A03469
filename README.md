@@ -35,11 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A Cypres
-Garland,
-For the Sacred Fore-head
-of our late Soueraigne
-KING IAMES.By Hugh Holland.P. Ouid
+
 1. ❧ TO MY LORD: THE
 DVKE OF BVCKINGHAMS
 Grace: Whom God
